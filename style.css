@@ -1,12 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  text-align: center;
+  height: 100vh;
+  width: 100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   color: #fff;
   background-color: #000;
 }
 
+h1{
+  margin-bottom: 30px;
+}
+
 .quadrado {
   text-align: center;
-  width: 50px;
+  width: 140px;
   background: #eee;
   display: inline-block;
   padding: 40px;
