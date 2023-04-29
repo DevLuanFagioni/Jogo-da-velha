@@ -1,7 +1,5 @@
 # # Jogo da velha com Js
 
-Um parágrafo da descrição do projeto vai aqui
-
 ## 🌐 Deploy
 
 https://fagioni-jogo-da-velha.netlify.app
